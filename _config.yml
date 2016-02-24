@@ -1,0 +1,28 @@
+name: Tom Wyatt
+favicon: null
+layout_spectrum: 0.09011850226670504
+typography_spectrum: 0.7504326906055212
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5821986189112067
+  lightness: 0.4545084168203175
+  saturation: 0.20960006606765091
+  rhythmicContrast: 0.05117690237239003
+purpose: []
