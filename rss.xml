@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Tom Wyatt]]></title>
         <description><![CDATA[Tom Wyatt]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tom-wyatt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 09:36:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 09:39:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tom-wyatt/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bath Rugby]]></title>
-            <description><![CDATA[<article><h1>Bath Rugby</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df292097f261c5bae2ad4bfadbce6f902420649b.jpg"></article>]]></description>
-            <link>undefinedbath-rugby/index.html</link>
+            <description><![CDATA[<article><h1>Bath Rugby</h1><p>Bath Rugby in today's game are a team full of ups and downs. Most recently, Bath reached the Premiership Final by thrashing an unconvincing    Leicester Tigers at The Rec. Known as The Fortress to some, the stadium is situated right in the centre of Bath, hence the name. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df292097f261c5bae2ad4bfadbce6f902420649b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/tom-wyatt/bath-rugby/index.html</link>
             <guid isPermaLink="false">2f156ac3-6606-4b1c-979a-1490543a6a1f</guid>
-            <pubDate>Wed, 24 Feb 2016 09:35:51 GMT</pubDate>
+            <pubDate>Wed, 24 Feb 2016 09:39:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
